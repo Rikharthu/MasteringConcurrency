@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Mastering Concurrency.iml" filepath="$PROJECT_DIR$/.idea/modules/Mastering Concurrency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Mastering_Concurrency.iml" filepath="$PROJECT_DIR$/.idea/modules/Mastering_Concurrency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Mastering_Concurrency_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Mastering_Concurrency_main.iml" group="Mastering_Concurrency" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Mastering_Concurrency_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Mastering_Concurrency_test.iml" group="Mastering_Concurrency" />
+    </modules>
+  </component>
+</project>
